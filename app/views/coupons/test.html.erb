@@ -1,0 +1,5 @@
+<% unless @manufacturer.nil? %>
+<%= "#{@my_offer.discount_data} #{@manufacturer} #{@item} @ #{@shop}, #{@location}. Use code #{@random_code}." %>
+<% else %>
+<%= "#{@my_offer.discount_data} #{@item} @ #{@shop}, #{@location}. Use code #{@random_code}." %>
+<% end %>

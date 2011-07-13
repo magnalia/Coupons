@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  offer_id: 1
+  msisdn: MyString
+  code: MyString
+  claimed_status: 1
+  claimed_time: 2011-07-09 21:59:46
+
+two:
+  offer_id: 1
+  msisdn: MyString
+  code: MyString
+  claimed_status: 1
+  claimed_time: 2011-07-09 21:59:46
